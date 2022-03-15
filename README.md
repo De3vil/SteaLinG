@@ -69,4 +69,4 @@ python SteaLinG.py
   </a>
 
 
-Buy me a cup of coffee [![B De3vil](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://www.paypal.com/paypalme/De3vil01)
+Buy me cup  coffee [![B De3vil](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://www.paypal.com/paypalme/De3vil01)
