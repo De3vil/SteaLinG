@@ -51,8 +51,7 @@ python SteaLinG.py
 ### warning:
 ```bash
 * Don't Upload in VirusTotal.com Bcz This tool will not work with Time.
-* Virustotal Share Signatures With AV Comapnies.
-* Again Don't be an Idiot!
+* Don't Upload in VirusTotal.com Bcz This tool will not work with Time.
 ```
 
 ## Media
