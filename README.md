@@ -50,7 +50,7 @@ python SteaLinG.py
 ```
 ### warning:
 ```bash
-* Don't Upload in VirusTotal.com Bcz This tool will not work with Time.
+* Don't Upload in VirusTotal.com Bcz This tool will not work with Time.+"\n"
 * Don't Upload in VirusTotal.com Bcz This tool will not work with Time.
 ```
 
