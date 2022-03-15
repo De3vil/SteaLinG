@@ -46,7 +46,7 @@ you can read the source code and try to understand how to make a project like th
 
 
 #### Requirements
-* python >= 3.8 ++ Download [here](https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe)
+* python >= 3.8 ++ Download [Python](https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe)
 
 ### Stars Rate
 ![stars](https://starchart.cc/De3vil/SteaLinG.svg)
@@ -61,6 +61,11 @@ python SteaLinG.py
 ![](src/Video_2022-03-15_005215.gif)
 ***
 ![](src/3.png)
+***
+
+### Stars Rate
+![stars](https://starchart.cc/De3vil/SteaLinG.svg)
+***
 ***
  ## [+] Find Me on :
 <h4> Abdulrahman Mohammed </h4>
