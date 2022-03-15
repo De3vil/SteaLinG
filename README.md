@@ -57,6 +57,7 @@ python SteaLinG.py
 
 ### Stars Rate
 ![stars](https://starchart.cc/De3vil/SteaLinG.svg)
+
 ***
 ***
  ## [+] Find Me on :
