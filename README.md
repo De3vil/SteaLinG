@@ -42,12 +42,19 @@ you can read the source code and try to understand how to make a project like th
 
 
 ### Installation:
-```
+```bash
 git clone https://github.com/De3vil/SteaLinG.git
 cd SteaLinG
 pip install -r requirements.txt
 python SteaLinG.py
 ```
+### warning:
+```bash
+* Don't Upload in VirusTotal.com Bcz This tool will not work with Time.
+* Virustotal Share Signatures With AV Comapnies.
+* Again Don't be an Idiot!
+```
+
 ## Media
 ![](src/Video_2022-03-15_005215.gif)
 ***
