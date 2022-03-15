@@ -15,7 +15,7 @@
 
 ### Description
 The SteaLinG  is an open-source penetration testing framework designed for social engineering 
-
+After the hack, you can upload it to the victim's device and run it
 ### disclaimers: 
 This is only for testing purposes and can only be used where strict consent has been given. Do not use this for illegal purposes
 
