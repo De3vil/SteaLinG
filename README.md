@@ -56,7 +56,7 @@ python SteaLinG.py
 ```
 
 ## AV detection
-![](src/Screenshot 2022-03-20 215752.png)
+![](src/AV.png)
 ## Media
 
 ![](src/Video_2022-03-15_005215.gif)
