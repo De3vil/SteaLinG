@@ -2,3 +2,4 @@ mega.py
 pywin32
 pycryptodome
 colored
+browser_history
