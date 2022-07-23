@@ -67,11 +67,19 @@ And you can enter the url at any time and put another url. It is very normal bec
 * os : Windows
 
 
-### Installation:
+### Installation to Windows:
 ```bash
 git clone https://github.com/De3vil/SteaLinG.git
 cd SteaLinG
 pip install -r requirements.txt
+python SteaLinG.py
+```
+### Installation to Linux 
+```bash
+git clone https://github.com/De3vil/SteaLinG.git
+cd SteaLinG
+chmod +x linux_setup.sh
+bash linux_setup.sh
 python SteaLinG.py
 ```
 ### warning:
