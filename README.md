@@ -37,7 +37,7 @@ ________________________________________________________________________________
 ### New features
 | module         | Short description                                           |
 | :------------- | :-------------                                               |
-| **Telegram Session Hijack**      | Telegram session hijacker                                           |
+| **1-Telegram Session Hijack**      | Telegram session hijacker                                           |
 
 
 * How it works ?
@@ -50,7 +50,11 @@ The first step is to go to the path where the tdata file is located, and then co
 The name of the archive file is used in the name of the device of your victim, because if you have more than one, I mean, after that, you will post reques for the zipfile on the anonfiles website using the API key or the token of your account on the site. On it, you will find your token
 Just that, teacher, and it is not exposed from any AV
 
-2- Dropper
+| module         |
+| :------------- | 
+| **2- Dropper**      | 
+
+
 * What requirements does he need from you?
 * And how does it work??
 Requirements
