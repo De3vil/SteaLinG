@@ -52,7 +52,7 @@ C:
     │       └── TelegramDesktop
     │           └── tdata
 
-
+```
 
 Once you have moved this folder with all its contents on your device in the same path, then you do what will happen for it is that simple
 The tool does all this, all you have to do is give it your token on the site `https://anonfiles.com/`
