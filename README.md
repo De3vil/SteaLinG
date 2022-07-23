@@ -57,7 +57,7 @@ C:
 Once you have moved this folder with all its contents on your device in the same path, then you do what will happen for it is that simple
 The tool does all this, all you have to do is give it your token on the site `https://anonfiles.com/`
 The first step is to go to the path where the tdata file is located, and then convert it to a zip file. Of course, if the Telegram was working, this would not happen. If there was any error, it means that the Telegram is open, so I would do the kill processes. antivirus You will see that this is malicious behavior, so I avoided this part at all by the try and except in the code
-The name of the archive file is used in the name of the device of your victim, because if you have more than one, I mean, after that, you will post reques for the zipfile on the anonfiles website using the API key or the token of your account on the site. On it, you will find your token
+The name of the archive file is used in the name of the device of your victim, because if you have more than one, I mean, after that, you will post request for the zipfile on the anonfiles website using the API key or the token of your account on the site. On it, you will find your token
 Just that, teacher, and it is not exposed from any AV
 
 | module         |
