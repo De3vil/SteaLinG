@@ -61,6 +61,9 @@ Then it adds the url you gave it and then it gives you the exe file, its functio
 It starts to open pastebin and inserts the special paste you created, takes the paste url, downloads its content and runs
 And you can enter the url at any time and put another url. It is very normal because the dropper goes every 10 minutes. Checks the URL. If it finds it, it changes it, downloads its content, downloads it, and connects to find it. You don't do anything, and so, every 10 minutes, you can literally do it, you can access your device from anywhere
 
+3- Linux support
+
+4-You can now choose between Mega or Pastebin
 
 #### Requirements
 * python >= 3.8 ++ Download [Python](https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe)
