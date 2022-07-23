@@ -55,6 +55,7 @@ Its Yama `.exe or .png, ` whatever is important is that it be a link that ends w
 The second thing is to take the kay from you, and you will answer it as well. Either you register, click on the word API, you will find it, and you will take the username and password
 So how does it work?
 ![](src/Untitled.png)
+
 The first thing is to create a paste on the site and make it private
 Then it adds the url you gave it and then it gives you the exe file, its function is that when it works on any device it starts adding itself to Registry device in two different ways
 It starts to open pastebin and inserts the special paste you created, takes the paste url, downloads its content and runs
