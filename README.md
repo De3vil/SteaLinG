@@ -35,6 +35,8 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________
 
 ### New features
+| :------------- | :-------------                                               |
+| **Telegram Session Hijack**     | steal All passwords saved , upload file a passwords saved to mega |
 1- Telegram Session Hijack
 * How it works ?
 The recording session in Telegram is stored locally in this particular path 
