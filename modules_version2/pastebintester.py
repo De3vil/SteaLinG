@@ -23,7 +23,7 @@ class Mainfun:
 			data = get(url).content
 			x.append(url)
 			if url in x:
-				break		
+				sleep(600)		
 			else :
 				f = open(f"{file_name}", 'wb')
 				f.write(data)
