@@ -52,7 +52,7 @@ Just that, teacher, and it is not exposed from any AV
 Requirements
 The first thing it asks you is the `URL` of the virus or whatever you want to download to the victim's device, but keep in mind that the `URL must be direct`, meaning that it must be the end
 Its Yama `.exe or .png, ` whatever is important is that it be a link that ends with a backstamp
-The second thing is to take the kay from you, and you will answer it as well. Either you register, click on the word API, you will find it, and you will take the username and password
+The second thing is to take the API Kay from you, and you will answer it as well. Either you register, click on the word API, you will find it, and you will take the username and password
 So how does it work?
 ![](src/Untitled.png)
 
