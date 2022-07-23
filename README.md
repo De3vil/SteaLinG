@@ -48,7 +48,7 @@ Just that, teacher, and it is not exposed from any AV
 
 2- Dropper
 * What requirements does he need from you?
-* And my dropper da Ptchgl Lazy?
+* And how does it work??
 Requirements
 The first thing it asks you is the `URL` of the virus or whatever you want to download to the victim's device, but keep in mind that the `URL must be direct`, meaning that it must be the end
 Its Yama `.exe or .png, ` whatever is important is that it be a link that ends with a backstamp
