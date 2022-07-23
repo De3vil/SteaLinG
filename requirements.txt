@@ -1,0 +1,10 @@
+mega.py
+pywin32
+pbwrap
+requests
+colored
+browser_history
+pyinstaller
+subprocess
+pycryptodome
+pycrypto
