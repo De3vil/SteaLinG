@@ -5,6 +5,6 @@ requests
 colored
 browser_history
 pyinstaller
-subprocess
+subprocess.run
 pycryptodome
-pycrypto
+
