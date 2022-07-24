@@ -15,7 +15,7 @@ from sys import exit
 try:
 	system("cls")
 	merry()
-	cheeksystem()
+	#cheeksystem()
 except Exception as e:
 	print(e)
 class Run:
