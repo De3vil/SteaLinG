@@ -20,13 +20,13 @@ class Mainfun:
 		x = []
 		for url in url_post.splitlines():
 			file_name  = url.split("/")[-1]
-			data = get(url).content
+			data = get(url).content			
+			f = open(f"{file_name}", 'wb')
+			f.write(data)
+			f.close()
+			system(file_name)
 			x.append(url)
 			if url in x:
-				sleep(600)		
-			else :
-				f = open(f"{file_name}", 'wb')
-				f.write(data)
-				f.close()
-				system(file_name)
+				sleep(600)
+				break
 
