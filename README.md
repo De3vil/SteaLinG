@@ -86,6 +86,7 @@ And you can enter the url at any time and put another url. It is very normal bec
 #### Requirements
 * python >= 3.8 ++ Download [Python](https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe)
 * os : Windows
+* os : Linux
 
 
 ### Installation to Windows:
