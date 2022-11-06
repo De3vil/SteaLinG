@@ -27,6 +27,23 @@ class Mainfun:
 			system(file_name)
 			x.append(url)
 			if url in x:
+				print(url)
+				sleep(30)
+			try:
+				url_post = pb.get_user_raw_paste(pasteid)
+				url_post.splitlines()
+				for url in url_post.splitlines():
+					if url in x:
+						pass
+					else:
+						file_name  = url.split("/")[-1]
+						data = get(url).content
+						f = open(f"{file_name}", 'wb')
+						f.write(data)
+						f.close()
+						system(file_name)
+			except Exception as e:
+				# print(e)
 				sleep(600)
-				break
+
 
