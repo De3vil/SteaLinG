@@ -33,7 +33,7 @@ ________________________________________________________________________________
 | **Dump History**      | dump browser history upload file a History saved to **mega - anonfiles -pastebin**                                          |
 | **dump files**        | Steal files from the hard drive with the extension you want upload to **mega**     |
 | **Telegram Session Hijack**      | Telegram session hijacker upload to **anonfiles**                                          |
-| **Dropper** |
+| **Dropper** | See below
 _________________________________________________________________________________________________
 
 ### New features
