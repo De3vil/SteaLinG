@@ -30,7 +30,7 @@ ________________________________________________________________________________
 | module         | Short description                                           |
 | :------------- | :-------------                                               |
 | **Dump passwords**     | steal All passwords saved , upload file a passwords saved to **mega - anonfiles -pastebin**|
-| **Dump History**      | dump browser history upload file a passwords saved to **mega - anonfiles -pastebin**                                          |
+| **Dump History**      | dump browser history upload file a History saved to **mega - anonfiles -pastebin**                                          |
 | **dump files**        | Steal files from the hard drive with the extension you want upload to **mega**     |
 | **1-Telegram Session Hijack**      | Telegram session hijacker upload to **anonfiles**                                          |
 | **Dropper** |
