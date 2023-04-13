@@ -29,7 +29,7 @@ you can read the source code and try to understand how to make a project like th
 _______________________________________________________________________________________________
 | module         | Short description                                           |
 | :------------- | :-------------                                               |
-| **Dump password**     | steal All passwords saved , upload file a passwords saved to **mega - anonfiles -pastebin**|
+| **Dump passwords**     | steal All passwords saved , upload file a passwords saved to **mega - anonfiles -pastebin**|
 | **Dump History**      | dump browser history upload file a passwords saved to **mega - anonfiles -pastebin**                                          |
 | **dump files**        | Steal files from the hard drive with the extension you want upload to **mega**     |
 | **1-Telegram Session Hijack**      | Telegram session hijacker upload to **anonfiles**                                          |
