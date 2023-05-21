@@ -71,10 +71,8 @@ The second thing is to obtain the `API key `from you, which you will also provid
 * So, how does it work?
 ![](src/Untitled.png)
 
-The first thing is to create a paste on the site and make it private
-Then it adds the url you gave it and then it gives you the exe file, its function is that when it works on any device it starts adding itself to Registry device in two different ways
-It starts to open pastebin and inserts the special paste you created, takes the paste url, downloads its content and runs
-And you can enter the url at any time and put another url. It is very normal because the dropper goes every 10 minutes. Checks the URL. If it finds it, it changes it, downloads its content, downloads it, and connects to find it. You don't do anything, and so, every 10 minutes, you can literally do it, you can access your device from anywhere
+The first thing to do is to create a private paste on the website. After that, it adds the URL you provided and gives you the executable (`exe`) file. Its function is to add itself to the device's registry in two different ways when it runs on any device.
+First, it opens the Pastebin website and inserts the special paste you created. It then takes the paste URL, downloads its content, and runs it. Additionally, you can enter another URL at any time. This is very normal because the dropper checks the URL every 10 minutes. If it finds a new URL, it downloads its content, connects to it, and continues to run. You don't have to do anything. Therefore, every 10 minutes, you can access your device from anywhere."
 
 3- Linux support
 
