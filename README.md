@@ -56,11 +56,7 @@ C:
 
 ```
 
-Once you have moved this folder with all its contents on your device in the same path, then you do what will happen for it is that simple
-The tool does all this, all you have to do is give it your token on the site `https://anonfiles.com/`
-The first step is to go to the path where the tdata file is located, and then convert it to a zip file. Of course, if the Telegram was working, this would not happen. If there was any error, it means that the Telegram is open, so I would do the kill processes. antivirus You will see that this is malicious behavior, so I avoided this part at all by the try and except in the code
-The name of the archive file is used in the name of the device of your victim, because if you have more than one, I mean, after that, you will post request for the zipfile on the anonfiles website using the API key or the token of your account on the site. On it, you will find your token
-Just that, teacher, and it is not exposed from any AV
+Once you have moved this folder, along with all its contents, to your device in the same path, you will simply need to perform the required action. The tool will take care of everything, and all you need to do is provide your token on the ~https://anonfiles.com/ ~ website. The first step is to navigate to the location of the tdata file, and then convert it to a zip file. If Telegram is functioning correctly, then this error will not occur. If an error does occur, it means that Telegram is open, and you should terminate its processes. You will notice that this behavior is malicious, so I have completely avoided it by using try and except in the code. The name of the archive file is used in the name of the victim's device, because if you have multiple devices, it is possible to differentiate between them. After that, you will submit a request for the zipfile on the anonfiles website using the API key or the token of your account on the site. Your token can be found there. That's all, teacher, and it is not detected by any antivirus software.
 
 | module         |
 | :------------- | 
