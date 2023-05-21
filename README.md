@@ -63,13 +63,14 @@ Once you have moved this folder, along with all its contents, to your device in 
 | **2- Dropper**      | 
 
 
-* What requirements does he need from you?
-* And how does it work??
-Requirements
-The first thing it asks you is the `URL` of the virus or whatever you want to download to the victim's device, but keep in mind that the `URL must be direct`, meaning that it must be the end
-Its Yama `.exe or .png, ` whatever is important is that it be a link that ends with a backstamp
-The second thing is to take the API Kay from you, and you will answer it as well. Either you register, click on the word API, you will find it, and you will take the username and password
-So how does it work?
+* تم التصحيح:
+
+* What requirements does he need from you? 
+* And how does it work?
+* Requirements:
+The first thing he asks for is the URL of the virus or whatever you want to download onto the victim's device. Keep in mind that the URL must be direct, meaning that it must be the end of it. Its extension should be `.exe` or `.png`, or any other important extension. The important thing is that the `link` ends with a backslash `(/)`.
+The second thing is to obtain the `API key `from you, which you will also provide. You can register and click on the `"API"` word to find it, and then take note of the `username` and `password`.
+* So, how does it work?
 ![](src/Untitled.png)
 
 The first thing is to create a paste on the site and make it private
