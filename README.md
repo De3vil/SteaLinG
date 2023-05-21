@@ -66,13 +66,13 @@ Once you have moved this folder, along with all its contents, to your device in 
 * What requirements does he need from you? 
 * And how does it work?
 * Requirements:
-The first thing he asks for is the URL of the virus or whatever you want to download onto the victim's device. Keep in mind that the URL must be direct, meaning that it must be the end of it. Its extension should be `.exe` or `.png`, or any other important extension. The important thing is that the `link` ends with a backslash `(/)`.
+The first thing he asks for is the URL of the virus or whatever you want to download onto the victim's device. Keep in mind that the URL must be direct, meaning that it must be the end of it. Its extension should be `.exe` or `.png`, or any other important extension. The important thing is that the `link` ends with a extension `(.any extension)`.
 The second thing is to obtain the `API key `from you, which you will also provide. You can register and click on the `"API"` word to find it, and then take note of the `username` and `password`.
 * So, how does it work?
 ![](src/Untitled.png)
 
 The first thing to do is to create a private paste on the website. After that, it adds the URL you provided and gives you the executable (`exe`) file. Its function is to add itself to the device's registry in two different ways when it runs on any device.
-First, it opens the Pastebin website and inserts the special paste you created. It then takes the paste URL, downloads its content, and runs it. Additionally, you can enter another URL at any time. This is very normal because the dropper checks the URL every 10 minutes. If it finds a new URL, it downloads its content, connects to it, and continues to run. You don't have to do anything. Therefore, every 10 minutes, you can access your device from anywhere."
+First, it opens the Pastebin website and inserts the special paste you created. It then takes the `paste URL`, downloads its content, and runs it. Additionally, you can enter another `URL` at any time. This is very normal because the dropper checks the URL every 10 minutes. If it finds a new URL, it downloads its content, connects to it, and continues to run. You don't have to do anything. Therefore, every 10 minutes, you can access your device from anywhere.
 
 3- Linux support
 
