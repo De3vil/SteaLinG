@@ -63,8 +63,6 @@ Once you have moved this folder, along with all its contents, to your device in 
 | **2- Dropper**      | 
 
 
-* تم التصحيح:
-
 * What requirements does he need from you? 
 * And how does it work?
 * Requirements:
