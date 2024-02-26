@@ -70,6 +70,7 @@ class Run:
 			if self.chose == self.ch4:
 				self.mido = Run()
 				self.filenampackeg = "dump_Telegram.py"
+				self.getdatefromuser()
 				self.telegram()
 				mido.choose_compiling()
 			if self.chose == self.ch5:
@@ -205,8 +206,9 @@ class Run:
 	def build_password_bin(self):
 		pastbintestuploading.build_pass(key=mido.api_key, username=mido.username ,Password=mido.Password)
 	def telegram(self):
-		self.token = self.colored_input("anynmes token :")
-		dump_teatgram.build_t(token=mido.token)
+		dump_teatgram.build_t(email=mido.email,Password=mido.Password)
+		#self.token = self.colored_input("anynmes token :")
+		#dump_teatgram.build_t(token=mido.token)
 	def build_hsistory(self):
 		buildHis.build_hs(email=mido.email, Password=mido.Password)
 	def build_hsistory_bin(self):
