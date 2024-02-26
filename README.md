@@ -5,13 +5,14 @@
   SteaLinG v3.1
   <br>  
 </h1>
-![](src/logo.png)
+
 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Author-mido--de3vil-orange">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
+  <img src="src/logo.png">
 </p>
 
 ### Description
