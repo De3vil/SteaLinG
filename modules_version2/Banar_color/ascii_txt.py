@@ -17,9 +17,10 @@ colored.fg("#ab01ff") + colored.attr("bold"),
 colored.fg("#c81d59") + colored.attr("bold"),
 colored.fg("blue")    + colored.attr("bold"),
 colored.fg("#c81d59") + colored.bg("cyan")+colored.attr("bold"),
+colored.fg("white") + colored.bg("#ab01ff")+colored.attr("bold")
 ]
 #==turquoise_2=============#ff013c=================================
-
+res = colored.style.RESET
 W = bannar_color[3] #yellow
 Y = bannar_color[0] #magenta
 B = bannar_color[2] #cyan
@@ -34,6 +35,7 @@ WI = bannar_color[5]#white
 BOOLD = bannar_color[12]
 bl = bannar_color[-2]
 F = bannar_color[-1]
+BOOLD = bannar_color[12]
 txt1 = f"{WI}[{bl}*{WI}]{X}{WI}It works now only on {X}Chrome{WI} but in the next Version More browsers will be added"
 txt=f"""       {WI}[{bl}*{WI}]{X}input the file extension you want example {R}jpg mp3 mp4 txt word,
        {WI}[{bl}*{WI}]{X}and You can add {B}more {X}than one extension at once but you have to separate them by ({R},{X}) 
