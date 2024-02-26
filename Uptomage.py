@@ -1,6 +1,4 @@
-
-
-# -*- coding: utf-8 -*-
+# -*- coding: utf-8 '-*-'
 # Author: Abdulrahman Mohammed (De3vil)
 # Don't touch my code, it's art 
 #+==============================
