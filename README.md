@@ -5,6 +5,7 @@
   SteaLinG v3.1
   <br>  
 </h1>
+![](src/logo.png)
 
 
 <p align="center">
