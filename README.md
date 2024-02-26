@@ -14,7 +14,9 @@
   <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
 </p>
 
-![](src/logo.PNG)
+<h1 align="center"> 
+
+  ![](src/logo.PNG)
 ### Description
 The SteaLinG  is an open-source penetration testing framework designed for social engineering 
 After the hack, you can upload it to the victim's device and run it
