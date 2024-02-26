@@ -116,8 +116,8 @@ class Run:
 		except Exception as e:
 			print(e)
 	def getdatefromuser(self,spaces=3):
-		self.email    = self.colored_input("Email Mega'https://mega.nz/",spaces=8)
-		self.Password = self.colored_input("password Mega'https://mega.nz/" ,spaces=8)
+		self.email    = self.colored_input(f"{X}Email{R} Mega {BOOLD}{F}'https://mega.nz/{res}",spaces=8)
+		self.Password = self.colored_input(f"{X}password{R} Mega {BOOLD}{F}'https://mega.nz/{res}" ,spaces=8)
 	def getdatefromuser_bin(self,spaces=8):
 		self.api_key  = self.colored_input("API KEY",spaces=8)
 		self.username = self.colored_input("User name", spaces=8)
