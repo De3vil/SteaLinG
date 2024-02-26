@@ -9,6 +9,7 @@ sudo apt-get upgrade -y
 # Install required packages
 sudo dpkg --add-architecture i386
 sudo apt-get install python3
+pip install  mega.py pywin32 pycryptodome colored pbwrap requests browser_history subprocess.run pyinstaller
 sudo wget https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe
 sudo mv ~/.wine ~/.wine.old
 wine python-3.8.10.exe
