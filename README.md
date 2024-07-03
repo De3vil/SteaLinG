@@ -16,7 +16,7 @@
 
 <h1 align="center"> 
 
-  ![](src/logo.PNG)
+
 ### Description
 The SteaLinG  is an open-source penetration testing framework designed for social engineering 
 After the hack, you can upload it to the victim's device and run it
